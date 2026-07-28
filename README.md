@@ -1,29 +1,30 @@
 <div align="center">
 
-# ❤️ Heart Disease Prediction using Machine Learning
+# ❤️ Heart Disease Prediction
 
-### Predict the risk of heart disease using Machine Learning with an interactive Flask Web Application
-
-<p align="center">
+### End-to-End Machine Learning System for Early Heart Disease Risk Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-Web_App-black?style=for-the-badge&logo=flask)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikit-learn)
-![CatBoost](https://img.shields.io/badge/CatBoost-Algorithm-yellow?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-Gradient_Boosting-green?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-orange?style=for-the-badge&logo=scikit-learn)
+![CatBoost](https://img.shields.io/badge/CatBoost-Gradient_Boosting-yellow?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-green?style=for-the-badge)
 ![MLflow](https://img.shields.io/badge/MLflow-Experiment_Tracking-blue?style=for-the-badge)
 ![DVC](https://img.shields.io/badge/DVC-Data_Version_Control-purple?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-Containerized-blue?style=for-the-badge&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker)
 
-</p>
+</div>
 
 ---
 
-## 📌 Overview
+## 📖 Overview
 
-Heart disease remains one of the leading causes of death worldwide. Early prediction can significantly improve treatment outcomes and reduce mortality.
+Heart disease is one of the leading causes of death worldwide, making early diagnosis essential for effective treatment and prevention.
 
-This project leverages Machine Learning algorithms to predict whether a patient is at risk of heart disease based on several clinical parameters. It also provides a clean and interactive Flask web application where users can enter medical details and instantly receive predictions.
+This project is an **end-to-end Machine Learning application** that predicts the likelihood of heart disease using patient clinical data. It encompasses the complete ML lifecycle—from data preprocessing and feature engineering to model training, evaluation, and deployment through an interactive Flask web application.
+
+To ensure reproducibility and scalability, the project also integrates **MLflow** for experiment tracking, **DVC** for data versioning, and **Docker** for containerized deployment.
+
 
 The project follows an end-to-end Machine Learning workflow including:
 
