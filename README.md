@@ -1,6 +1,6 @@
 <div align="center">
 
-# ❤️ Heart Disease Prediction
+# Heart Disease Prediction
 
 ### End-to-End Machine Learning System for Early Heart Disease Risk Prediction
 
